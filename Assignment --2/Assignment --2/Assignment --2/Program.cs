@@ -37,8 +37,10 @@ namespace Assignment___2
 
             String_Assignment sa = new String_Assignment();
             sa.stringlength();
+            //same strings 
             samestrings ss = new samestrings();
             ss.stringsameOrNot();
+            //pallindrome 
             Pallindrome pa = new Pallindrome();
             pa.strPallindrome();
             Console.ReadLine();
