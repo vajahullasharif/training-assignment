@@ -36,7 +36,7 @@ namespace Assignment__4
         {
             static void Main(string[] args)
             {
-                Emp employee = new Emp(123, "lokesh", 1000.3f);
+                Emp employee = new Emp(123, "sharif", 1032.3f);
                 employee.display();
                 PartTimeemployees pte = new PartTimeemployees();
                 pte.show();
